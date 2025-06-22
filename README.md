@@ -17,6 +17,7 @@ While the current version allows manual task + step creation and management, it�
 - ⚡ Simple Frontend for testing (Optional)  
 - 🌐 CORS and JSON support for full-stack development  
 - 📜 Clean and well-commented codebase  
+- 🧪 Automated testing with Jest, achieving over 80% code coverage
 
 ## 📁 Folder Structure
 
@@ -57,7 +58,15 @@ All routes accept and return **JSON**.
   ]
 }
 ````
+## ✅ Test Coverage & Results
+We achieved over **80% code coverage** using Jest and Supertest!
 
+To run all tests locally:
+
+```bash
+npm test
+
+```
 ## 🧪 Test Your API (Using curl)
 
 ### ✅ Create a Funnel
