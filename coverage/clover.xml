@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1750585507416" clover="3.2.0">
+  <project timestamp="1750585507416" name="All files">
+    <metrics statements="39" coveredstatements="31" conditionals="4" coveredconditionals="2" methods="7" coveredmethods="4" elements="50" coveredelements="37" complexity="0" loc="39" ncloc="39" packages="3" files="3" classes="3"/>
+    <package name="focus-funnel-API">
+      <metrics statements="14" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+      <file name="server.js" path="C:\AANdeBHAI\focus-funnel-API\server.js">
+        <metrics statements="14" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="focus-funnel-API.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Funnel.js" path="C:\AANdeBHAI\focus-funnel-API\models\Funnel.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="focus-funnel-API.routes">
+      <metrics statements="22" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="funnels.js" path="C:\AANdeBHAI\focus-funnel-API\routes\funnels.js">
+        <metrics statements="22" coveredstatements="18" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
