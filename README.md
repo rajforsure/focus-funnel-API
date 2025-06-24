@@ -1,7 +1,7 @@
 
 # 🚀 FocusFunnel API – Break Down Tasks Into Mini-Steps
 
-> A smart productivity API that helps you deconstruct broad or vague tasks into clear, actionable mini-steps — like having a digital project manager at your fingertips!
+> A smart productivity API that helps you deconstruct broad or vague tasks into clear, actionable mini-steps, it's like having a digital project manager at your fingertips!
 
 ## 🌟 Overview
 
@@ -187,6 +187,7 @@ OPENAI_API_KEY=your-key-here
 
 Built with ❤️ by [Raj Mondal](https://github.com/rajforsure)
 Feel free to ⭐️ the repo or open issues/suggestions!
+I'll be very happy to see!
 
 ## 📝 License
 
